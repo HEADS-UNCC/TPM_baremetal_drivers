@@ -1,6 +1,11 @@
-This project provides an open source baremetal driver stack for SPI based TPM 2.0 devices. This driver stack is written for Xilinx FPGA devices, however can easily be ported to any other platform.
+This project provides an open source baremetal driver stack for SPI based TPM 2.0 devices. 
+This driver stack is written for Xilinx FPGA devices, however can easily be ported to any other platform.
 
-This work is a part of UNCC's HEADS lab <https://coefs.uncc.edu/fsaqib/research>. For further correspondence regarding this work, please contact Dr. Fareena Saqib <fsaqib@uncc.edu> and Ali Shuja Siddiqui <asiddiq6@uncc.edu>
+This work is a part of UNCC's HEADS lab <https://coefs.uncc.edu/fsaqib/research>. 
+For further correspondence regarding this work, please contact Dr. Fareena Saqib <fsaqib@uncc.edu> 
+and Ali Shuja Siddiqui <asiddiq6@uncc.edu>
 
 We would appreciate the following citation in any publications to which this code has contributed:
-A. S. Siddiqui, Y. Gui and F. Saqib, "Boot time Bitstream Authentication for FPGAs," 2019 IEEE 16th International Conference on Smart Cities: Improving Quality of Life Using ICT & IoT and AI (HONET-ICT), Charlotte, NC, USA, 2019, pp. 189-190, doi: 10.1109/HONET.2019.8907956.
+A. S. Siddiqui, Y. Gui and F. Saqib, "Boot time Bitstream Authentication for FPGAs," 2019 IEEE 
+16th International Conference on Smart Cities: Improving Quality of Life Using ICT & IoT and AI (HONET-ICT), 
+Charlotte, NC, USA, 2019, pp. 189-190, doi: 10.1109/HONET.2019.8907956.
