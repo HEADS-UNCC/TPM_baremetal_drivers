@@ -6,6 +6,7 @@ For further correspondence regarding this work, please contact Dr. Fareena Saqib
 and Ali Shuja Siddiqui <asiddiq6@uncc.edu>
 
 We would appreciate the following citation in any publications to which this code has contributed:
-A. S. Siddiqui, Y. Gui and F. Saqib, "Boot time Bitstream Authentication for FPGAs," 2019 IEEE 
-16th International Conference on Smart Cities: Improving Quality of Life Using ICT & IoT and AI (HONET-ICT), 
-Charlotte, NC, USA, 2019, pp. 189-190, doi: 10.1109/HONET.2019.8907956.
+A. S. Siddiqui, G. Shirley, S. Bendre, G. Bhagwat, J. Plusquellic and F. Saqib, 
+"Secure Design Flow of FPGA Based RISC-V Implementation," 2019 IEEE 4th International Verification
+and Security Workshop (IVSW), Rhodes Island, Greece, 2019, pp. 37-42, 
+doi: 10.1109/IVSW.2019.8854418.
