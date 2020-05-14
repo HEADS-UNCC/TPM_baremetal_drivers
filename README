@@ -1,3 +1,3 @@
 This project provides an open source baremetal driver stack for SPI based TPM 2.0 devices. This driver stack is written for Xilinx FPGA devices, however can easily be ported to any other platform.
 
-This work is a part of UNCC's HEADS lab <https://coefs.uncc.edu/fsaqib/research>. For further correspondence regarding this work, please contact Dr. Fareena Saqib <fsaqib@uncc.edu> or Ali Shuja Siddiqui <asiddiq6@uncc.edu>
+This work is a part of UNCC's HEADS lab <https://coefs.uncc.edu/fsaqib/research>. For further correspondence regarding this work, please contact Dr. Fareena Saqib <fsaqib@uncc.edu> and Ali Shuja Siddiqui <asiddiq6@uncc.edu>
