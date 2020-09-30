@@ -5,8 +5,11 @@ This work is a part of UNCC's HEADS lab <https://coefs.uncc.edu/fsaqib/research>
 For further correspondence regarding this work, please contact Dr. Fareena Saqib <fsaqib@uncc.edu> 
 and Ali Shuja Siddiqui <asiddiq6@uncc.edu>
 
-We would appreciate the following citation in any publications to which this code has contributed:
-A. S. Siddiqui, G. Shirley, S. Bendre, G. Bhagwat, J. Plusquellic and F. Saqib, 
+We would appreciate a citation to the following publications in any work to which this code may have  contributed:
+- Siddiqui, A.S.; Gui, Y.; Saqib, F. Secure Boot for Reconfigurable Architectures. Cryptography 2020, 4, 26.
+https://doi.org/10.3390/cryptography4040026
+
+- A. S. Siddiqui, G. Shirley, S. Bendre, G. Bhagwat, J. Plusquellic and F. Saqib, 
 "Secure Design Flow of FPGA Based RISC-V Implementation," 2019 IEEE 4th International Verification
 and Security Workshop (IVSW), Rhodes Island, Greece, 2019, pp. 37-42, 
 doi: 10.1109/IVSW.2019.8854418.
